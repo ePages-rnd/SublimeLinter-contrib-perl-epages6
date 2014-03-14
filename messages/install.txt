@@ -1,0 +1,10 @@
+SublimeLinter-contrib-perl-epages6
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to perl-epages6.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Jonas Gratz/SublimeLinter-contrib-perl-epages6
