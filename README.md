@@ -9,11 +9,7 @@ SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 
 
 ### Linter installation
 
-1. Copy `perlc` file from the repo to a folder in the PATH (e.g. `/usr/local/bin`)
-2. Put the repo folder in the `Packages` folder of your Sublime Text 3 copy.
-
-**Note:** This plugin requires a configured copy of the [Flakes][flakes] plugin.
-
+Search for `SublimeLinter-contrib-perl-epages6` in the package control and install it.
 
 ## Development
 
